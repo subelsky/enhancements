@@ -9,12 +9,14 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Mike Subelsky"]
-  s.date = %q{2009-12-29}
+  s.date = %q{2010-01-02}
   s.description = %q{Various Ruby patches and enhancements I carry from project to project}
   s.email = %q{mike@subelsky.com}
+  s.extra_rdoc_files = [
+    "README.textile"
+  ]
   s.files = [
-    ".specification",
-     "MIT-LICENSE",
+    "MIT-LICENSE",
      "README.textile",
      "Rakefile",
      "TODO.txt",
