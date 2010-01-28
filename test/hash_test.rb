@@ -1,5 +1,5 @@
 require 'test/unit'
-require File.join(File.dirname(__FILE__),'..','lib','subelsky_enhancements','hash')
+require File.join('.',File.dirname(__FILE__),'..','lib','subelsky_enhancements','hash')
 
 class TestHash < Test::Unit::TestCase
   
