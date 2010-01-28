@@ -2,4 +2,8 @@ h1. Ruby Enhancements
 
 This gem packages up various Ruby patches and enhancements I carry from project to project.
 
-Copyright (c) 2009 Mike Subelsky, released under the MIT license.
+h2. Compatibility
+
+Tested with Ruby 1.8.7 and Ruby 1.9.1-p376.
+
+Copyright (c) 2010 Mike Subelsky, released under the MIT license.
